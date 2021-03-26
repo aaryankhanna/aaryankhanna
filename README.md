@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aaryankhanna
 - 👀 I’m interested in Machine Learning using Python.
-- 🌱 I’m currently learning Machine learning
+- 🌱 I’m currently learning Machine learning.
 - 📫 How to reach me - Mail me at aryankhanna2807@gmail.com
 
 <!---
