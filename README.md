@@ -2,7 +2,7 @@
 
 ## 👀 About Me
 I'm an experienced **Software Developer** with expertise in **JavaScript, Flutter, and Cocos Creator**. I specialize in **cross-platform game development**, enhancing gameplay mechanics, and integrating third-party platforms. My focus is on building scalable applications and delivering immersive gaming experiences.
-Total Experience : **2+ years**
+- Total Experience : **2+ years**
 
 ## 💼 Work Experience
 - **Software Developer** at **Taab Solutions LLP** (August 2023 - Present)
