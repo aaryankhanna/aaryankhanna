@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Aryan Khanna
+# Hi, I'm Aryan Khanna
 
-## 👀 About Me
+## About Me
 I'm an experienced **Software Developer** with expertise in **JavaScript, Flutter, and Cocos Creator**. I specialize in **cross-platform game development**, enhancing gameplay mechanics, and integrating third-party platforms. My focus is on building scalable applications and delivering immersive gaming experiences.
 - Total Experience : **2+ years**
 
